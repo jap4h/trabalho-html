@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Fontes de computador</title>
+    </head>
+    <body bgcolor="pink" text="white">
+        <font face="arial" size="15">
+            <img src="comp.jpg" width="100" height="200">
+        <b> Fontes de computadores</b>, ou unidades de fonte de alimentação (PSUs), são componentes que convertem a corrente alternada (AC)
+             da tomada da parede em corrente contínua (DC) de baixa voltagem, regulada e adequada para alimentar os componentes internos de um PC, 
+             como a placa-mãe, processador e placas de vídeo.</br>
+    <b>Tipos de fontes:</b>
+    Nos tipo de modularidade temos:não modular, semimodular, modular e o formato físico (ATX, SFX), sendo os tipos semimodular e modular ideais para organização de cabos e estética, 
+    enquanto os formatos definem o tamanho físico da fonte para compatibilidade com diferentes caixas de computador. 
+    <b>Fontes não modulares:</b> Todos os cabos são fixos à fonte. 
+    <b>Fontes semimodulares:</b> Alguns cabos são fixos, enquanto outros são destacáveis e podem ser conectados conforme a necessidade. 
+    <b>Fontes totalmente modulares:</b> Todos os cabos são destacáveis, oferecendo a melhor gestão de cabos e um visual mais limpo e organizado. 
+    <img src="cabos.jpg" width="100" height="200">
+<b>Alguns modelos:</b></br>
+<b>Fonte linear:</b>As fontes lineares são as mais tradicionais;
+<b>Fonte chaveada:</b>SMPS – Switch Mode Power Supply;
+<b>Fonte comutada</b> 
+<b>Fonte ATX:</b>para computadores;
+<b>Fonte de bancada:</b>variável ou ajustável;
+<b> Fonte programável</b> 
+<b> Fonte DC-DC:</b>conversora;
+<b> Fontes automotivas</b></br>
+<img src="modelos.jpg" width="100" height="200">
+    </font>
+</body>
+    </html>
